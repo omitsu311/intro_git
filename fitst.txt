@@ -1,2 +1,4 @@
 gitの練習
 ハンズオン
+git add
+git commit
